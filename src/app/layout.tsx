@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "TrekTroves - Roadtrip Planner & Expense Calculator",
   description: "Plan your legendary roadtrips, optimize routes with integrated maps, calculate dynamic fuel and toll costs, and split group expenses easily.",
+  other: {
+    "google-adsense-account": "ca-pub-4987582199371317",
+  },
 };
 
 export default function RootLayout({
